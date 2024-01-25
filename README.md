@@ -13,7 +13,7 @@ I'm a 20-year-old Software Engineering student at Concordia University based in 
 
 ## 📦 Toolbox
 
-**Languages:** `Java` `Python` `JavaScript` `C/C++` `SQL (Postgres)` `Angular` `Erlang` `Clojure` `HTML/CSS`
+**Languages:** `Java` `Python` `JavaScript` `C/C++` `SQL (Postgres)` `Angular` `HTML/CSS`
  
 **Frameworks:** `SpringBoot` `Node.js` `React` `TypeScript` `Wordpress`
 
