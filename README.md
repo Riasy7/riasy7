@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
-<h3 align="center">I'm a 20 year old Software Engineering student at Concordia University based in Montreal, Canada.</h3>
+I'm a 20 year old Software Engineering student at Concordia University based in Montreal, Canada.
 
 
 - 🔭 I’m currently working on [Software License Manager](https://github.com/Riasy7/SoftwareLicenseManager)
