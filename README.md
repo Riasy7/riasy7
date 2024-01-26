@@ -7,7 +7,6 @@
 I'm a 20-year-old Software Engineering student at Concordia University based in Montreal, Canada. 
 
 - 🔭 I’m currently working on [Software License Manager](https://github.com/Riasy7/SoftwareLicenseManager)
-- 🌱 I’m currently learning **Angular**
 - 📫 How to reach me **https://www.linkedin.com/in/ahmadsaadawi/**
 - ⚡ Fun fact **I love playing football/soccer. I also am into cyrptocurrency!**
 
