@@ -19,7 +19,7 @@ I'm a 20-year-old Software Engineering student at Concordia University based in 
 
 **Developer Tools:** `Git` `Visual Studio Code` `IntelliJ` `Eclipse` `GitHub` `Shell`
 
-**Libraries:** `pandas` `NumPy` `Matplotlib` `Apache Spark` `Web3.py`
+**Libraries:** `pandas` `Apache Spark` `Web3.py`
  
 ## ✨ Fun Facts 
 
