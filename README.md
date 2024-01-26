@@ -24,6 +24,7 @@ I'm a 20-year-old Software Engineering student at Concordia University based in 
 ## ✨ Fun Facts 
 
 - I love playing Football ⚽
+- My Favourite anime is One Piece
 - I like cryptocurrency
 
 ## 📫 Contact
