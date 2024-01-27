@@ -4,7 +4,7 @@
 
 ## Hey, I'm Ahmad 👋🏻 
 
-I'm a 20-year-old Software Engineering student at Concordia University based in Montreal, Canada. 
+I'm a second-year Software Engineering student at Concordia University based in Montreal, Canada.
 
 - 🔭 I’m currently working on [Software License Manager](https://github.com/Riasy7/SoftwareLicenseManager)
 - 📫 How to reach me **https://www.linkedin.com/in/ahmadsaadawi/**
