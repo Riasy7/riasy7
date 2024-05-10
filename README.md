@@ -7,7 +7,6 @@
 I'm a second-year Software Engineering student at Concordia University based in Montreal, Canada.
 
 - 📫 How to reach me [linkedin.com/in/ahmadsaadawi/](https://www.linkedin.com/in/ahmadsaadawi/)
-- ⚡ Fun fact **I love playing football/soccer. I also am into cyrptocurrency!**
 
 ## 📦 Toolbox
 
