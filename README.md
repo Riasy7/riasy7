@@ -21,7 +21,7 @@ I'm a second-year Software Engineering student at Concordia University based in 
 ## ✨ Fun Facts 
 
 - I love playing Football ⚽
-- My Favourite anime is One Piece
+- I'm currently taking a course on Algorithmic Trading
 - I like cryptocurrency
 
 ## 📫 Contact
