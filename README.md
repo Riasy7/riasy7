@@ -6,6 +6,7 @@
 
 I'm a second-year Software Engineering student at Concordia University based in Montreal, Canada.
 
+- [Visit My Website](https://ahmadsaadawi.com)
 - 📫 How to reach me [linkedin.com/in/ahmadsaadawi/](https://www.linkedin.com/in/ahmadsaadawi/)
 
 ## 📦 Toolbox
@@ -26,5 +27,6 @@ I'm a second-year Software Engineering student at Concordia University based in 
 
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/ahmadsaadawi/). 
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/ahmadsaadawi/).
+ Or access my socials through my website's contact section [ahmadsaadawi.com](https://ahmadsaadawi.com).
  
