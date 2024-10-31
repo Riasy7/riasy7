@@ -13,7 +13,7 @@ I'm a second-year Software Engineering student at Concordia University based in 
 
 **Languages:** `Java` `C#` `Python` `JavaScript` `Go` `C/C++` `SQL (Postgres)` `Lua` `HTML/CSS`
  
-**Frameworks:** `SpringBoot` `Ruby on Rails` `Node.js` `.NET` `Express.js`
+**Frameworks:** `SpringBoot` `Ruby on Rails` `Angular` `Node.js` `.NET` `Express.js`
 
 **Developer Tools:** `Git` `VS Code` `Visual Studio` `Docker` `Neovim` `Postman` `Telnet` `Wireshark` `WSL`
 
