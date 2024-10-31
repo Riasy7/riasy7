@@ -11,19 +11,19 @@ I'm a second-year Software Engineering student at Concordia University based in 
 
 ## 📦 Toolbox
 
-**Languages:** `Java` `Python` `JavaScript` `C/C++` `SQL (Postgres)` `Angular` `HTML/CSS`
+**Languages:** `Java` `C#` `Python` `JavaScript` `Go` `C/C++` `SQL (Postgres)` `Lua` `HTML/CSS`
  
-**Frameworks:** `SpringBoot` `Node.js` `React` `TypeScript` `Wordpress`
+**Frameworks:** `SpringBoot` `Ruby on Rails` `Node.js` `.NET` `Express.js`
 
-**Developer Tools:** `Git` `Visual Studio Code` `IntelliJ` `Eclipse` `GitHub` `Shell`
+**Developer Tools:** `Git` `VS Code` `Visual Studio` `Docker` `Neovim` `Postman` `Telnet` `Wireshark` `WSL`
 
-**Libraries:** `pandas` `Apache Spark` `Web3.py`
+**Libraries:** `pandas` `numpy` `scikit-learn` `Winsock` `matplotlib`
  
 ## ✨ Fun Facts 
 
 - I love playing Football ⚽
 - I'm currently working on a CLI tool using Go
-- I like cryptocurrency
+- I'm interested in cryptocurrency
 
 ## 📫 Contact
 
