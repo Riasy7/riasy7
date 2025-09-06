@@ -22,7 +22,7 @@ I'm a second-year Software Engineering student at Concordia University based in 
 ## ✨ Fun Facts 
 
 - I love playing Football ⚽
-- I'm currently working on a CLI tool using Go
+- I'm currently working on a Job Ninja
 - I'm interested in cryptocurrency
 
 ## 📫 Contact
